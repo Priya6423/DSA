@@ -9,6 +9,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0001-two-sum](https://github.com/Priya6423/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priya6423/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priya6423/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priya6423/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
