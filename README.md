@@ -9,6 +9,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0001-two-sum](https://github.com/Priya6423/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priya6423/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Priya6423/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priya6423/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -43,9 +45,18 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Priya6423/DSA/tree/master/1929-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
