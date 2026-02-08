@@ -31,6 +31,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Priya6423/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Priya6423/DSA/tree/master/0509-fibonacci-number) |
@@ -63,6 +64,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Priya6423/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Priya6423/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -71,5 +73,6 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Priya6423/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Priya6423/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
