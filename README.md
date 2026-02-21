@@ -20,6 +20,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priya6423/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Priya6423/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Priya6423/DSA/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Priya6423/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0075-sort-colors](https://github.com/Priya6423/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Priya6423/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Priya6423/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Priya6423/DSA/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Priya6423/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
