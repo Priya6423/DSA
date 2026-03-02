@@ -31,6 +31,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priya6423/DSA/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Priya6423/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Priya6423/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
@@ -109,9 +110,11 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Priya6423/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/Priya6423/DSA/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Priya6423/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Priya6423/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
