@@ -12,6 +12,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0056-merge-intervals](https://github.com/Priya6423/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Priya6423/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priya6423/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Priya6423/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Priya6423/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priya6423/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Priya6423/DSA/tree/master/0136-single-number) |
@@ -59,6 +60,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Priya6423/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Priya6423/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 ## Sorting
@@ -108,4 +110,8 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Priya6423/DSA/tree/master/0344-reverse-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Priya6423/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
