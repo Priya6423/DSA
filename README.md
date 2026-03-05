@@ -8,6 +8,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | ------- |
 | [0001-two-sum](https://github.com/Priya6423/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priya6423/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/Priya6423/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Priya6423/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Priya6423/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Priya6423/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -116,5 +117,6 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priya6423/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Priya6423/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Priya6423/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
