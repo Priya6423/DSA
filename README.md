@@ -125,4 +125,8 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priya6423/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Priya6423/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Priya6423/DSA/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Priya6423/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
