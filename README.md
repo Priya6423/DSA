@@ -101,6 +101,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0070-climbing-stairs](https://github.com/Priya6423/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priya6423/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Priya6423/DSA/tree/master/0509-fibonacci-number) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Priya6423/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Recursion
 |  |
 | ------- |
@@ -129,4 +130,12 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Priya6423/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Graph Theory
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Priya6423/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Priya6423/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
