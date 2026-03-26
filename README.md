@@ -105,6 +105,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Priya6423/DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Priya6423/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -130,6 +131,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Priya6423/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Priya6423/DSA/tree/master/0206-reverse-linked-list) |
 ## Graph Theory
 |  |
 | ------- |
