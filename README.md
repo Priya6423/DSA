@@ -48,6 +48,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priya6423/DSA/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Priya6423/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priya6423/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -132,6 +133,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Priya6423/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Priya6423/DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Priya6423/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Graph Theory
 |  |
 | ------- |
