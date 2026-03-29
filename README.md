@@ -43,6 +43,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priya6423/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Priya6423/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Priya6423/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priya6423/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
@@ -131,6 +132,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Priya6423/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Priya6423/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Priya6423/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Priya6423/DSA/tree/master/0876-middle-of-the-linked-list) |
