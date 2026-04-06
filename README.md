@@ -124,6 +124,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priya6423/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/Priya6423/DSA/tree/master/0344-reverse-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Priya6423/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Backtracking
 |  |
 | ------- |
