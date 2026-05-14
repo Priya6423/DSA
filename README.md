@@ -50,6 +50,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0088-merge-sorted-array](https://github.com/Priya6423/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Priya6423/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Priya6423/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priya6423/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Priya6423/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -112,6 +113,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Priya6423/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Priya6423/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Priya6423/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Priya6423/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -143,6 +145,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0141-linked-list-cycle](https://github.com/Priya6423/DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Priya6423/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Priya6423/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Priya6423/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Priya6423/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Priya6423/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Priya6423/DSA/tree/master/1669-merge-in-between-linked-lists) |
@@ -154,4 +157,8 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Priya6423/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Priya6423/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
