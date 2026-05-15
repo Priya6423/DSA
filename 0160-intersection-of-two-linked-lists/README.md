@@ -65,3 +65,11 @@ Explanation: The two lists do not intersect, so return null.
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you write a solution that runs in <code>O(m + n)</code> time and use only <code>O(1)</code> memory?
+
+## Approach
+- Brute: nested loops, O(n*m)
+- Length-diff: count lengths, advance longer, walk together. O(n+m).
+- Two-pointer swap: each pointer walks both lists, meets at intersection. O(n+m).
+
+## Key insight
+Compare nodes by address, not by value. Intersection = shared memory, not shared value.
