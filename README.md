@@ -38,6 +38,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priya6423/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Priya6423/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Priya6423/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Priya6423/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0075-sort-colors](https://github.com/Priya6423/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priya6423/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Priya6423/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Priya6423/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Priya6423/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
@@ -143,6 +145,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0061-rotate-list](https://github.com/Priya6423/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Priya6423/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Priya6423/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Priya6423/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Priya6423/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Priya6423/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Priya6423/DSA/tree/master/0234-palindrome-linked-list) |
