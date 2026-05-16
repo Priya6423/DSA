@@ -26,3 +26,31 @@
 	<li>The number of nodes in the list is in the range <code>[1, 100]</code>.</li>
 	<li><code>1 &lt;= Node.val &lt;= 100</code></li>
 </ul>
+
+## My Approach
+### Approach 1: Two-pass (count + traverse)
+**Steps:**
+1. Traverse the list to find total length
+2. Traverse again till (count/2)th node. For even-length lists, this returns the second middle node (as question requires)
+3. That will be the middle node of the linked list
+**Complexity:** Time O(n), Space O(1). Two passes.
+**When to use:** Easier to reason about, fine for most cases.
+---
+
+### Approach 2: One-pass (slow and fast pointers approach)
+**Steps:**
+1. Create both slow and fast start at head
+2. Move fast two steps and slow one step
+3. Move both together until fast is NULL
+4. When fast is NULL slow will exactly point to the middle node - return it
+**Complexity:** Time O(n), Space O(1). One pass.
+**When to use:** When asked "can you do it in one pass?"
+---
+
+### Key insight
+Fast moves 2 nodes per step, slow moves 1. By the time fast travels the full length n, slow has traveled exactly n/2 — landing on the middle. The two-condition loop check (fast != NULL && fast->next != NULL) handles both even and odd lengths cleanly.
+
+### Related problems
+- Linked List Cycle (same slow/fast technique)
+- Palindrome Linked List (uses find-middle as a step)
+- Linked List Cycle II
