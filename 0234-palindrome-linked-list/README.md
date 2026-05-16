@@ -25,3 +25,28 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you do it in <code>O(n)</code> time and <code>O(1)</code> space?
+
+## My Approach
+
+**Pattern used:** slow/fast (find middle) + three-pointer (reverse second half) + two-pointer compare
+
+**Steps:**
+1.First find the middle of the list using slow and fast pointers
+2.Then reverse the List from the middle node using the three pointers 
+3.Then compare the first half and the reversed half 
+4. If any single pair differs → not a palindrome, return false immediately. If you get through all pairs with every pair matching → return true
+
+**Complexity:** Time O(n), Space O(1)
+
+**Key insight:**
+The usual way to check a palindrome is to copy all values into an array/vector, then check if the array reads the same forwards and backwards — that's O(n) space. The clever trick here is reversing the second half in place, so you compare both halves directly using only pointers — O(1) space
+
+**Bug I made:**
+No bug — solved cleanly by combining patterns already practiced (reverse + find middle).
+
+**Related problems:**
+-Reverse Linked List (used as a sub-step)
+-Middle of Linked List (used as a sub-step)
+
+ **note**:
+ this destroys the original list; to restore, reverse the second half again before returning
