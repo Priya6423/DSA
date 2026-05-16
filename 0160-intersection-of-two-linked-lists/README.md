@@ -65,11 +65,38 @@ Explanation: The two lists do not intersect, so return null.
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you write a solution that runs in <code>O(m + n)</code> time and use only <code>O(1)</code> memory?
+## My Approach
 
-## Approach
-- Brute: nested loops, O(n*m)
-- Length-diff: count lengths, advance longer, walk together. O(n+m).
-- Two-pointer swap: each pointer walks both lists, meets at intersection. O(n+m).
+### Approach 1: Length difference
+**Pattern used:** Two pointers + length alignment
 
-## Key insight
-Compare nodes by address, not by value. Intersection = shared memory, not shared value.
+**Steps:**
+1. Find lengths of both lists
+2. Compute diff = |lenA - lenB|
+3. Advance the longer list's pointer by `diff` steps
+4. Walk both pointers together, comparing by ADDRESS
+5. First node where `a == b` is the intersection (or NULL)
+
+**Complexity:** Time O(n+m), Space O(1)
+
+### Approach 2: Two-pointer swap (elegant)
+**Steps:**
+1. a starts at headA, b starts at headB
+2. When a hits NULL, restart at headB; when b hits NULL, restart at headA
+3. They meet at the intersection (or both reach NULL together)
+
+**Complexity:** Time O(n+m), Space O(1)
+
+### Key insight
+If the lists intersect, the tail after the intersection is shared — same
+length for both. So the entire length difference is in the non-shared front.
+Advancing the longer list by that difference makes both pointers equidistant
+from the intersection. **Compare by address (a == b), never by value.**
+
+### Note on approaches
+Brute force (nested loops, O(n×m)) works but is too slow for large lists.
+Both approaches above are O(n+m).
+
+### Related problems
+- Remove Nth Node From End (two-pointer with offset)
+- Any "align two pointers then walk together" problem
