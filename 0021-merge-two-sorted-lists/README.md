@@ -34,3 +34,30 @@
 	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
 	<li>Both <code>list1</code> and <code>list2</code> are sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
+
+## My Approach
+
+**Pattern used:** Dummy node + tail pointer
+
+**Steps:**
+1. Take a new node named dummy and a tail node. Assign dummy to tail node.Dummy should not be null because the tail is a moving pointer and it will crash.
+2. Now start comparing the node values of both the lists and assign the lower value to the tail->next and move tail to next pointer(tail = tail->next) and also move the list to next pointer.
+3. Since both the lists are not of same length we need to ensure no values of both the lists are left behind
+4. AAfter the loop, exactly one list may have leftover nodes. Attach that remaining chain to tail in one step (it's already sorted and larger than everything merged so far).
+5. Now return dummy->next 
+
+**Complexity:** Time O(n+m), Space O(1)
+
+**Key insight:**
+The tail is the moving node. Eventually Tail will be lost at the tail of the merged list so, we need a pointer that will point to the head so that we can easily return the head after merging. That is why we use dummy node. The dummy node will point to the head.
+
+**Bug I made:**
+- Initially I took dummy=NULL instead of new ListNode(0) which returned error
+- I returned the dummy->next inside the while loop accidentally
+- I typed List1 instead of list1
+  
+**Rule I learned**:
+whenever the head node might be lost, changed, or removed during the operation, use a dummy node.
+
+**Related problems:**
+- Remove Nth node From End
