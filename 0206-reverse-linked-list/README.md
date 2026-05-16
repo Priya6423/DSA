@@ -32,3 +32,22 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> A linked list can be reversed either iteratively or recursively. Could you implement both?</p>
+
+## My Approach
+### Approach 1: Three pointers
+**Steps:**
+1. Create prev node and assign NULL to it, then current node and assign head to it
+2. Iterate through the list and take the third node called forward and assign current->next to it
+3. As we move forward assign current->next to prev node, and move prev to current and current to forward
+4. Forward will be automatically updated since we initialized it inside the loop and its value is current->next
+5. When current reaches NULL, the loop ends. prev now points to the new head — return it.
+**Complexity:** Time O(L), Space O(1). One pass.
+---
+### Key insight
+You can't flip a pointer without first saving what it was pointing to.
+`forward` is the safety net that lets us walk the list after we break each link.
+
+### Related problems
+- Palindrome Linked List (uses reversal as a step)
+- Reverse Linked List II — reverse between positions m and n
+- Reverse Nodes in K-Group
