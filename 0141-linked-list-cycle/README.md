@@ -40,3 +40,31 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> Can you solve it using <code>O(1)</code> (i.e. constant) memory?</p>
+
+## My Approach
+
+**Pattern used:** Floyd's Cycle Detection (slow/fast, Tortoise and Hare)
+
+**Steps:**
+1. Both slow and fast start at head
+2. Each iteration: slow moves 1 step, fast moves 2 steps
+3. If they ever meet (slow == fast) → cycle exists, return true
+4. If fast reaches NULL → no cycle, return false
+
+**Complexity:** Time O(n), Space O(1)
+
+**Key insight:**
+Once both pointers are inside the cycle, fast gains exactly 1 step on slow
+every iteration (2 - 1 = 1). The gap shrinks by exactly 1 each step, so it
+must hit 0 — they cannot skip past each other. This guarantees they meet.
+
+**Bug I made:**
+First attempt used `if` instead of `while`, so the pointers moved only once.
+It passed simple cases by accident but failed on real cycles needing multiple
+iterations. Fixed: `if` → `while`.
+
+**Related problems:**
+- Middle of Linked List (same slow/fast technique)
+- Palindrome Linked List (uses find-middle as a step)
+- Linked List Cycle II (find where the cycle starts — direct extension)
+
