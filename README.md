@@ -21,6 +21,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0136-single-number](https://github.com/Priya6423/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Priya6423/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Priya6423/DSA/tree/master/0485-max-consecutive-ones) |
@@ -40,6 +41,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0141-linked-list-cycle](https://github.com/Priya6423/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priya6423/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Priya6423/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0075-sort-colors](https://github.com/Priya6423/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priya6423/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Priya6423/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
