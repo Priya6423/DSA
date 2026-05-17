@@ -42,6 +42,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0160-intersection-of-two-linked-lists](https://github.com/Priya6423/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priya6423/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0088-merge-sorted-array](https://github.com/Priya6423/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priya6423/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -134,6 +136,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priya6423/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priya6423/DSA/tree/master/0344-reverse-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Priya6423/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Backtracking
