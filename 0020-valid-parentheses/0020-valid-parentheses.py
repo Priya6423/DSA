@@ -10,17 +10,17 @@ class Solution:
                 if ans and ans[-1]=="(":
                     ans.pop()
                 else:
-                    ans.append(i)
+                    return False
             elif i=="}":
                 if ans and ans[-1]=="{":
                     ans.pop()
                 else:
-                    ans.append(i)
+                    return False
             elif i=="]":
                 if ans and ans[-1]=="[":
                     ans.pop()
                 else:
-                    ans.append(i)
+                    return False
         return len(ans)==0
             
         
