@@ -25,6 +25,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0217-contains-duplicate](https://github.com/Priya6423/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Priya6423/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priya6423/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Priya6423/DSA/tree/master/0704-binary-search) |
@@ -46,6 +47,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0217-contains-duplicate](https://github.com/Priya6423/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0217-contains-duplicate](https://github.com/Priya6423/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -106,10 +109,12 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priya6423/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,4 +181,16 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Priya6423/DSA/tree/master/0234-palindrome-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
