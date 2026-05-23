@@ -24,6 +24,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priya6423/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Priya6423/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
@@ -146,6 +147,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Priya6423/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -228,12 +230,14 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0110-balanced-binary-tree](https://github.com/Priya6423/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priya6423/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Priya6423/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priya6423/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priya6423/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -244,4 +248,8 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0144-binary-tree-preorder-traversal](https://github.com/Priya6423/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Priya6423/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
