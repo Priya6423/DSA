@@ -34,6 +34,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0540-single-element-in-a-sorted-array](https://github.com/Priya6423/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/Priya6423/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Priya6423/DSA/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/Priya6423/DSA/tree/master/0994-rotting-oranges) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priya6423/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Priya6423/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Priya6423/DSA/tree/master/1929-concatenation-of-array) |
@@ -152,6 +153,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0073-set-matrix-zeroes](https://github.com/Priya6423/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Priya6423/DSA/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Priya6423/DSA/tree/master/0994-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priya6423/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Priya6423/DSA/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Priya6423/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
