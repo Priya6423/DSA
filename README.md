@@ -25,6 +25,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priya6423/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Priya6423/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priya6423/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priya6423/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priya6423/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priya6423/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priya6423/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Priya6423/DSA/tree/master/0704-binary-search) |
@@ -214,6 +216,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priya6423/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priya6423/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Tree
 |  |
 | ------- |
@@ -257,4 +260,8 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | ------- |
 | [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Priya6423/DSA/tree/master/0695-max-area-of-island) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Priya6423/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
