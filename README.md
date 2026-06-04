@@ -10,6 +10,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priya6423/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priya6423/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priya6423/DSA/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/Priya6423/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Priya6423/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Priya6423/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Priya6423/DSA/tree/master/0053-maximum-subarray) |
@@ -169,6 +170,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priya6423/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0040-combination-sum-ii](https://github.com/Priya6423/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Priya6423/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Priya6423/DSA/tree/master/0078-subsets) |
 ## Linked List
