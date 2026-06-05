@@ -19,6 +19,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0075-sort-colors](https://github.com/Priya6423/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Priya6423/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Priya6423/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Priya6423/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priya6423/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Priya6423/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priya6423/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -97,6 +98,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Priya6423/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Priya6423/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Priya6423/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 ## Sorting
@@ -173,6 +175,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0040-combination-sum-ii](https://github.com/Priya6423/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Priya6423/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Priya6423/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Priya6423/DSA/tree/master/0090-subsets-ii) |
 ## Linked List
 |  |
 | ------- |
