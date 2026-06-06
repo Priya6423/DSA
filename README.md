@@ -76,6 +76,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0234-palindrome-linked-list](https://github.com/Priya6423/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priya6423/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priya6423/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Priya6423/DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Priya6423/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priya6423/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -141,6 +142,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0053-maximum-subarray](https://github.com/Priya6423/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Priya6423/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priya6423/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Priya6423/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Priya6423/DSA/tree/master/0509-fibonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Priya6423/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Recursion
@@ -172,6 +174,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0049-group-anagrams](https://github.com/Priya6423/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priya6423/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Priya6423/DSA/tree/master/0392-is-subsequence) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Priya6423/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Backtracking
 |  |
