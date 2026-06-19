@@ -12,12 +12,10 @@ class Solution:
                 return 0
             else:
                 left=helper(root.left)
-                right=helper(root.right)   
+                right=helper(root.right)
                 if abs(left-right)>1:
                     balanced[0]=False
             return 1+max(left,right)
         helper(root)
         return balanced[0]
-            
-
         
