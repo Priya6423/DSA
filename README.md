@@ -41,6 +41,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0704-binary-search](https://github.com/Priya6423/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Priya6423/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Priya6423/DSA/tree/master/0994-rotting-oranges) |
+| [1732-find-the-highest-altitude](https://github.com/Priya6423/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priya6423/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Priya6423/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Priya6423/DSA/tree/master/1929-concatenation-of-array) |
@@ -290,4 +291,5 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Priya6423/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Priya6423/DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
