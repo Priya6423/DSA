@@ -22,6 +22,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0088-merge-sorted-array](https://github.com/Priya6423/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Priya6423/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priya6423/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/Priya6423/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Priya6423/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priya6423/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priya6423/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -169,6 +170,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Priya6423/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/Priya6423/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Priya6423/DSA/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Priya6423/DSA/tree/master/0994-rotting-oranges) |
@@ -260,6 +262,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0094-binary-tree-inorder-traversal](https://github.com/Priya6423/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priya6423/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Priya6423/DSA/tree/master/0110-balanced-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Priya6423/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Priya6423/DSA/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priya6423/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -274,6 +277,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0102-binary-tree-level-order-traversal](https://github.com/Priya6423/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priya6423/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Priya6423/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0130-surrounded-regions](https://github.com/Priya6423/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Priya6423/DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Priya6423/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
@@ -295,6 +299,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Priya6423/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Priya6423/DSA/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
