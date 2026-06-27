@@ -40,6 +40,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Priya6423/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priya6423/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Priya6423/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Priya6423/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Priya6423/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Priya6423/DSA/tree/master/0875-koko-eating-bananas) |
@@ -66,6 +67,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Priya6423/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -311,5 +313,6 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Priya6423/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Priya6423/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Priya6423/DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
