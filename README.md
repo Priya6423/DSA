@@ -190,6 +190,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priya6423/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priya6423/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Priya6423/DSA/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Priya6423/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Priya6423/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priya6423/DSA/tree/master/0344-reverse-string) |
