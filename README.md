@@ -109,6 +109,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priya6423/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priya6423/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Priya6423/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Priya6423/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priya6423/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Priya6423/DSA/tree/master/0704-binary-search) |
@@ -325,4 +326,8 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Priya6423/DSA/tree/master/0303-range-sum-query-immutable) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Priya6423/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
