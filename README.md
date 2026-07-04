@@ -8,6 +8,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | ------- |
 | [0001-two-sum](https://github.com/Priya6423/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Priya6423/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Priya6423/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priya6423/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priya6423/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priya6423/DSA/tree/master/0035-search-insert-position) |
@@ -76,6 +77,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priya6423/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Priya6423/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priya6423/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priya6423/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Priya6423/DSA/tree/master/0061-rotate-list) |
@@ -127,6 +129,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priya6423/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Priya6423/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Priya6423/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Priya6423/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Priya6423/DSA/tree/master/0075-sort-colors) |
