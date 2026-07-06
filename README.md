@@ -341,4 +341,8 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priya6423/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Priya6423/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
