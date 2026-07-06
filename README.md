@@ -48,6 +48,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0875-koko-eating-bananas](https://github.com/Priya6423/DSA/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Priya6423/DSA/tree/master/0994-rotting-oranges) |
+| [1288-remove-covered-intervals](https://github.com/Priya6423/DSA/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/Priya6423/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priya6423/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Priya6423/DSA/tree/master/1920-build-array-from-permutation) |
@@ -140,6 +141,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1288-remove-covered-intervals](https://github.com/Priya6423/DSA/tree/master/1288-remove-covered-intervals) |
 ## Simulation
 |  |
 | ------- |
