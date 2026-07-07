@@ -105,6 +105,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Priya6423/DSA/tree/master/0509-fibonacci-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Priya6423/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
