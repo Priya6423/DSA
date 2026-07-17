@@ -164,6 +164,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Priya6423/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Priya6423/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Priya6423/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priya6423/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -200,6 +201,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priya6423/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Priya6423/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priya6423/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Priya6423/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Priya6423/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Priya6423/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
@@ -243,6 +245,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priya6423/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priya6423/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priya6423/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priya6423/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0145-binary-tree-postorder-traversal) |
