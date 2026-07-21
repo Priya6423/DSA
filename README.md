@@ -72,6 +72,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Priya6423/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Priya6423/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -207,6 +208,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priya6423/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Priya6423/DSA/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Priya6423/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Priya6423/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priya6423/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
@@ -268,6 +270,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priya6423/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priya6423/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Priya6423/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Tree
 |  |
 | ------- |
