@@ -105,6 +105,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Priya6423/DSA/tree/master/0509-fibonacci-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Priya6423/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Priya6423/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -355,4 +356,8 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | ------- |
 | [0584-find-customer-referee](https://github.com/Priya6423/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Priya6423/DSA/tree/master/0595-big-countries) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Priya6423/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
