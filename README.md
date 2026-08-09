@@ -46,6 +46,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0695-max-area-of-island](https://github.com/Priya6423/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Priya6423/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Priya6423/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Priya6423/DSA/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Priya6423/DSA/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/Priya6423/DSA/tree/master/1288-remove-covered-intervals) |
@@ -105,6 +106,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Priya6423/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Priya6423/DSA/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priya6423/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Priya6423/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -173,6 +175,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0198-house-robber](https://github.com/Priya6423/DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Priya6423/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Priya6423/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Priya6423/DSA/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Priya6423/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Recursion
 |  |
@@ -360,4 +363,16 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priya6423/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Priya6423/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Priya6423/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Priya6423/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
