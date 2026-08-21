@@ -57,6 +57,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priya6423/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priya6423/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priya6423/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Priya6423/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priya6423/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Priya6423/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Priya6423/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
