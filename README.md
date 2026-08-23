@@ -59,6 +59,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priya6423/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priya6423/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/Priya6423/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0560-subarray-sum-equals-k](https://github.com/Priya6423/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priya6423/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3731-find-missing-elements](https://github.com/Priya6423/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/Priya6423/DSA/tree/master/1288-remove-covered-intervals) |
+| [3731-find-missing-elements](https://github.com/Priya6423/DSA/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
