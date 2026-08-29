@@ -50,6 +50,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Priya6423/DSA/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/Priya6423/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Priya6423/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Priya6423/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priya6423/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Priya6423/DSA/tree/master/1920-build-array-from-permutation) |
@@ -81,6 +82,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priya6423/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Priya6423/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1331-rank-transform-of-an-array](https://github.com/Priya6423/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Priya6423/DSA/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priya6423/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priya6423/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -158,6 +160,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0268-missing-number](https://github.com/Priya6423/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/Priya6423/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Priya6423/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priya6423/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Priya6423/DSA/tree/master/3731-find-missing-elements) |
 ## Simulation
