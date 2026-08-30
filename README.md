@@ -56,6 +56,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [1920-build-array-from-permutation](https://github.com/Priya6423/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Priya6423/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priya6423/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Priya6423/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priya6423/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priya6423/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priya6423/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -393,4 +394,8 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Priya6423/DSA/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Priya6423/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
