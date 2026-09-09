@@ -66,6 +66,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [3718-smallest-missing-multiple-of-k](https://github.com/Priya6423/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Priya6423/DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Priya6423/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Priya6423/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0560-subarray-sum-equals-k](https://github.com/Priya6423/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/Priya6423/DSA/tree/master/1732-find-the-highest-altitude) |
+| [3903-smallest-stable-index-i](https://github.com/Priya6423/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Design
 |  |
 | ------- |
