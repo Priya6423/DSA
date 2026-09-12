@@ -59,6 +59,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priya6423/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Priya6423/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priya6423/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priya6423/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priya6423/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priya6423/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priya6423/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -88,6 +89,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Priya6423/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Priya6423/DSA/tree/master/1805-number-of-different-integers-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priya6423/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priya6423/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priya6423/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Priya6423/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -303,6 +305,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priya6423/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priya6423/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priya6423/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priya6423/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Tree
 |  |
 | ------- |
