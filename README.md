@@ -122,6 +122,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Priya6423/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Priya6423/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priya6423/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Priya6423/DSA/tree/master/0189-rotate-array) |
@@ -152,6 +153,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Priya6423/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Priya6423/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Priya6423/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Priya6423/DSA/tree/master/0136-single-number) |
@@ -179,6 +181,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Priya6423/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Priya6423/DSA/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/Priya6423/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Priya6423/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priya6423/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -240,6 +243,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0032-longest-valid-parentheses](https://github.com/Priya6423/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Priya6423/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Priya6423/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Priya6423/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Priya6423/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priya6423/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Priya6423/DSA/tree/master/0392-is-subsequence) |
