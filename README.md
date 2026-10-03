@@ -432,4 +432,5 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priya6423/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priya6423/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
