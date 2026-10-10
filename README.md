@@ -330,6 +330,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0144-binary-tree-preorder-traversal](https://github.com/Priya6423/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Priya6423/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Priya6423/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priya6423/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Priya6423/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -347,6 +348,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0145-binary-tree-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Priya6423/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Priya6423/DSA/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Priya6423/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priya6423/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Priya6423/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Priya6423/DSA/tree/master/0695-max-area-of-island) |
@@ -378,6 +380,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0144-binary-tree-preorder-traversal](https://github.com/Priya6423/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Priya6423/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Priya6423/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priya6423/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Priya6423/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Union-Find
@@ -453,4 +456,5 @@ A structured repository of Data Structures and Algorithms problems designed to s
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priya6423/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Priya6423/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
