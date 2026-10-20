@@ -12,6 +12,7 @@ class Solution:
                 return None
             if len(arr)==depth:
                 arr.append(node.val)
-            return helper(node.right,depth+1) or helper(node.left,depth+1)
+            helper(node.right,depth+1)
+            helper(node.left,depth+1)
         helper(root,0)
         return arr
