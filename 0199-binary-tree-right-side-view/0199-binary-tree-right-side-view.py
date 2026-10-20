@@ -6,15 +6,12 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: TreeNode | None) -> list[int]:
-        answer=[]
+        arr=[]
         def helper(node,depth):
-            if not node:
+            if  not node:
                 return None
-            if len(answer)==depth:
-                answer.append(node.val)
-            helper(node.right,depth+1)
-            helper(node.left,depth+1)
+            if len(arr)==depth:
+                arr.append(node.val)
+            return helper(node.right,depth+1) or helper(node.left,depth+1)
         helper(root,0)
-        return answer
-
-        
+        return arr
