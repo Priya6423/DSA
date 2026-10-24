@@ -51,6 +51,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0704-binary-search](https://github.com/Priya6423/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Priya6423/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Priya6423/DSA/tree/master/0877-stone-game) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Priya6423/DSA/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/Priya6423/DSA/tree/master/1288-remove-covered-intervals) |
@@ -92,6 +93,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priya6423/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Priya6423/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priya6423/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Priya6423/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Priya6423/DSA/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -199,6 +201,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Priya6423/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Priya6423/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Counting
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priya6423/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priya6423/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Priya6423/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -397,6 +401,7 @@ A structured repository of Data Structures and Algorithms problems designed to s
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priya6423/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priya6423/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Priya6423/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya6423/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Union-Find
 |  |
 | ------- |
